@@ -1,5 +1,3 @@
-# Nathaniel Goldammer
-
 Software engineer based in the US. UVA CS grad. Currently building [XOXO Education](https://github.com/ndgldmr/xoxoedu) — an AI-native LMS designed for low-connectivity environments.
 
 Studying scalable system design and AI engineering.
